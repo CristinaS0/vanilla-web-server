@@ -1,7 +1,8 @@
-#**Context:**
+# Context:
+
 This project was done during the CodeForAll_ Online Bootcamp, as an assignment from week-11 - World Wide Web.
 
-#**Goal:**
+##**Goal:**
 Create a web server that responds to GET requests and serves static HTML pages.
 
 #**Requirements:**
